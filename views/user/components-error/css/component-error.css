@@ -1,0 +1,38 @@
+#components-error {
+    display : none;
+}
+
+#components-error #component-error, .error-box {
+    border-radius : 5px;
+}
+
+#components-error #component-error{
+    border: 2px solid #bbb;
+    margin-top: 30px;
+}
+
+#components-error h2{
+    text-align: center;
+    border-bottom: 2px dotted #bbb;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+
+#components-error #error-pics, #components-error #error-text {
+    border: 2px dotted #bbb;
+}
+
+#components-error #error-pics img {
+    width : 75%;
+}
+
+#components-error #error-text {
+    min-height: 225px;
+}
+
+.error-box {
+    text-align: center;
+    margin: 50px 4%;
+    padding: 40px;
+}

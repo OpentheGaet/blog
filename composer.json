@@ -1,0 +1,12 @@
+{
+    "autoload": {
+    	"psr-4": {
+            "app\\Auth\\": "app/Auth/",
+            "app\\Helper\\": "app/Helper/",
+            "app\\Model\\": "app/Model/",
+            "app\\Router\\": "app/Router",
+            "app\\Security\\": "app/Security/",
+            "model\\": "model/"
+    	 }
+    }
+}
