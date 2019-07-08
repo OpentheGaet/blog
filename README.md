@@ -11,5 +11,5 @@ crypted using the AES script tool, ok it is experimental :-), but it's still wor
 
 At the end, the exchange of data is protected against XSS attack.
 
-/!\ Notice : To run this project, you may find the DB in the "DB" forlder
+/!\ Notice : To run this project, you may find the DB in the "DB" folder
 
