@@ -3,7 +3,7 @@
 This blog project uses the MVC conception architectural pattern using the OOP paradigm to make it run.
 
 Therefore the project also uses a framework made from scratch and built with PHP. The framework is 
-composed of three section (Model, View, Controller) that divides the code, so that we may obtain a clear 
+composed of three sections (Model, View, Controller) that divide the code, so that we may obtain a clear 
 code while optimizing the simplicity for future maintenance.
 
 It also uses the AJAX concept to exchange data between the server and the application, and exchanges are
